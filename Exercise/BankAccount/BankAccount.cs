@@ -17,6 +17,10 @@ class BankAccount {
     AccountBalance += amount;
   }
 
+  public void Loot( double amount) {
+    AccountBalance -= amount;
+  }
+
   public override string ToString()
   {
     return ($"Account: {AccountNumber}, Holder: {NameHolder}, Current balance: {AccountBalance.ToString("F2", CultureInfo.InvariantCulture )}");
