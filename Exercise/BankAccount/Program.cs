@@ -6,5 +6,8 @@ class Program {
 
     Console.Write("Enter name of holder: ");
     string holder = Console.ReadLine();
+
+    Console.Write("Will have initial deposit (y/n)? ");
+    char answer = char.Parse(Console.ReadLine());
   }
 }
