@@ -23,5 +23,17 @@ class Program {
     Console.WriteLine();
     Console.WriteLine("Account data:");
     Console.WriteLine(account);
+
+    Console.WriteLine();
+
+    Console.Write("Enter the deposit amount:  ");
+    double amount = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    account.Deposit(amount);
+
+    Console.WriteLine("Updated account data: ");
+    Console.WriteLine(account);
+
+
+
   }
 }
