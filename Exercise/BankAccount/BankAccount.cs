@@ -17,5 +17,4 @@ class BankAccount {
   {
     return ($"Account: {AccountNumber}, Holder: {NameHolder}, Current balance: {AccountBalance.ToString("F2", CultureInfo.InvariantCulture )}");
   }
-
 }
