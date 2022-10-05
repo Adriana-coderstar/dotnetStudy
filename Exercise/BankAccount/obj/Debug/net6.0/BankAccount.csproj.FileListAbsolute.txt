@@ -1,0 +1,15 @@
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/bin/Debug/net6.0/BankAccount
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/bin/Debug/net6.0/BankAccount.deps.json
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/bin/Debug/net6.0/BankAccount.runtimeconfig.json
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/bin/Debug/net6.0/BankAccount.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/bin/Debug/net6.0/BankAccount.pdb
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/BankAccount.csproj.AssemblyReference.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/BankAccount.AssemblyInfoInputs.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/BankAccount.AssemblyInfo.cs
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/BankAccount.csproj.CoreCompileInputs.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/BankAccount.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/refint/BankAccount.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/BankAccount.pdb
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/BankAccount.genruntimeconfig.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BankAccount/obj/Debug/net6.0/ref/BankAccount.dll
