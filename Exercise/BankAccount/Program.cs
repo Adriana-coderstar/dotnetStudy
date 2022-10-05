@@ -33,7 +33,13 @@ class Program {
     Console.WriteLine("Updated account data: ");
     Console.WriteLine(account);
 
+    Console.WriteLine();
 
+    Console.Write("Enter the loot amount:  ");
+    amount = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    account.Loot(amount);
 
+    Console.WriteLine("Updated account data: ");
+    Console.WriteLine(account);
   }
 }
