@@ -4,4 +4,9 @@ class BankAccount {
   
   public double AccountBalance { get; private set;}
 
+  public BankAccount(int account, string holder) {
+    AccountNumber = account;
+    NameHolder = holder;
+  }
+
 }
