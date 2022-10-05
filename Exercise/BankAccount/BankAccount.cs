@@ -18,7 +18,7 @@ class BankAccount {
   }
 
   public void Loot( double amount) {
-    AccountBalance -= amount;
+    AccountBalance -= amount + 5.0;
   }
 
   public override string ToString()
