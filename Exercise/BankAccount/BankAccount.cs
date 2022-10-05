@@ -10,7 +10,7 @@ class BankAccount {
     NameHolder = holder;
   }
   public BankAccount(int account, string holder, double currentBalance): this(account, holder) {
-    AccountBalance = currentBalance;
+    Deposit(currentBalance);
   }
 
   public void Deposit(double amount){
