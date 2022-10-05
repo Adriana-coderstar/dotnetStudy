@@ -13,6 +13,10 @@ class BankAccount {
     AccountBalance = currentBalance;
   }
 
+  public void Deposit(double amount){
+    AccountBalance += amount;
+  }
+
   public override string ToString()
   {
     return ($"Account: {AccountNumber}, Holder: {NameHolder}, Current balance: {AccountBalance.ToString("F2", CultureInfo.InvariantCulture )}");
