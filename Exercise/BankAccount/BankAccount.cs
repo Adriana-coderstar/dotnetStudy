@@ -8,5 +8,8 @@ class BankAccount {
     AccountNumber = account;
     NameHolder = holder;
   }
+  public BankAccount(int account, string holder, double currentBalance): this(account, holder) {
+    AccountBalance = currentBalance;
+  }
 
 }
