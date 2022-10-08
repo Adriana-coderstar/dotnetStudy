@@ -1,0 +1,15 @@
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/Employee.csproj.AssemblyReference.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/Employee.AssemblyInfoInputs.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/Employee.AssemblyInfo.cs
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/Employee.csproj.CoreCompileInputs.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/bin/Debug/net6.0/Employee
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/bin/Debug/net6.0/Employee.deps.json
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/bin/Debug/net6.0/Employee.runtimeconfig.json
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/bin/Debug/net6.0/Employee.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/bin/Debug/net6.0/Employee.pdb
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/Employee.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/refint/Employee.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/Employee.pdb
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/Employee.genruntimeconfig.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/Employee/obj/Debug/net6.0/ref/Employee.dll
