@@ -38,5 +38,11 @@ class Program {
     } else {
       System.Console.WriteLine("This id does not exist!");
     }
+
+    Console.WriteLine();
+
+    foreach (Employee obj in list) {
+      Console.WriteLine(obj);
+    }
   }
 }
