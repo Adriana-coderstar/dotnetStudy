@@ -11,6 +11,10 @@ class Employee {
     Salary = salary;
   }
 
+  public void SalaryIncrease(double percentage) {
+    Salary += Salary * percentage / 100;
+  }
+
   public override string ToString()
   {
     return ($"Id: {Id}, Name: {Name}, Salary: {Salary.ToString("F2", CultureInfo.InvariantCulture)}");
