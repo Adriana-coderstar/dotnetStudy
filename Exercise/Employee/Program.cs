@@ -24,5 +24,19 @@ class Program {
 
       Console.WriteLine();
     }
+
+    Console.Write("Enter the employee id that will have salary increase : ");
+    int searchId = int.Parse(Console.ReadLine());
+
+    Employee emp = list.Find(x => x.Id == searchId);
+
+    if (emp != null) {
+      Console.Write("Enter the percentage: ");
+      double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+      emp.SalaryIncrease(percentage);
+    } else {
+      System.Console.WriteLine("This id does not exist!");
+    }
   }
 }
