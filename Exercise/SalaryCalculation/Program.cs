@@ -5,7 +5,8 @@ using SalaryCalculation.Entities.Enums;
 namespace SalaryCalculation {
   public class Program {
     static void Main(string[] args) {
-      Console.WriteLine("Enter department's name: ");
+      Console.Write("Enter department's name: ");
+      string departamentName = Console.ReadLine();
       Console.WriteLine("Enter worker data: ");
 
       Console.Write("Name: ");
