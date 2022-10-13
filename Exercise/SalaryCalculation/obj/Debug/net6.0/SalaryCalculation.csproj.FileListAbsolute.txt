@@ -1,0 +1,15 @@
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/bin/Debug/net6.0/SalaryCalculation
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/bin/Debug/net6.0/SalaryCalculation.deps.json
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/bin/Debug/net6.0/SalaryCalculation.runtimeconfig.json
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/bin/Debug/net6.0/SalaryCalculation.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/bin/Debug/net6.0/SalaryCalculation.pdb
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/SalaryCalculation.csproj.AssemblyReference.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/SalaryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/SalaryCalculation.AssemblyInfoInputs.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/SalaryCalculation.AssemblyInfo.cs
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/SalaryCalculation.csproj.CoreCompileInputs.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/SalaryCalculation.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/refint/SalaryCalculation.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/SalaryCalculation.pdb
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/SalaryCalculation.genruntimeconfig.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/SalaryCalculation/obj/Debug/net6.0/ref/SalaryCalculation.dll
