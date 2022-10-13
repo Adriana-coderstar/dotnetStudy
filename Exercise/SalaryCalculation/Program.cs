@@ -19,6 +19,10 @@ namespace SalaryCalculation {
       Console.Write("Base salary: ");
       double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+      Departament dept = new Departament(departamentName);
+
+      Worker worker = new Worker(name, level, salary, dept);
+
       Console.Write("How many contracts to this worker? ");
       int n = int.Parse(Console.ReadLine());
 
@@ -33,6 +37,7 @@ namespace SalaryCalculation {
 
         Console.Write("Duration (hours): ");
         int hours = int.Parse(Console.ReadLine());
+
       }
     }
   }
