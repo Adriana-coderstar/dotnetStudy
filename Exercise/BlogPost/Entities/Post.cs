@@ -20,5 +20,9 @@ namespace BlogPost.Entities{
     public void AddComment(Comment text) {
       Comments.Add(text);
     }
+
+    public void RemoveComment(Comment text) {
+      Comments.Add(text);
+    }
   }
 }
