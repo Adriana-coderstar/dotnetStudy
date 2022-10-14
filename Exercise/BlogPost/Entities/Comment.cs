@@ -1,5 +1,9 @@
 namespace BlogPost.Entities {
   public class Comment {
-    public string Comments { get; set; }
+    public string Text { get; set; }
+
+    public Comment(string text) {
+      Text = text;
+    }
   }
 }
