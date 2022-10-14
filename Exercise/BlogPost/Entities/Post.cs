@@ -16,5 +16,9 @@ namespace BlogPost.Entities{
       Content = content;
       Likes = likes;
     }
+
+    public void AddComment(Comment text) {
+      Comments.Add(text);
+    }
   }
 }
