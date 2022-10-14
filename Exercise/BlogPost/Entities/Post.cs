@@ -8,5 +8,13 @@ namespace BlogPost.Entities{
     public string Content { get; set; }
     public int Likes { get; set; }
     public List<Comment> Comments { get; set; } = new List<Comment>();
+
+    public Post(){}
+    public Post(DateTime moment, string title, string content, int likes){
+      Moment = moment;
+      Title = title;
+      Content = content;
+      Likes = likes;
+    }
   }
 }
