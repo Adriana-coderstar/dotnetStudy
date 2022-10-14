@@ -41,6 +41,16 @@ namespace SalaryCalculation {
         HourContract contract = new HourContract(date, valuePerHour, hours);
         worker.addContract(contract);
       }
+
+      Console.WriteLine();
+      Console.Write("Enter month and year to calculate income (MM/YYYY): ");
+      string mothAndYear = Console.ReadLine();
+      int moth = int.Parse(mothAndYear.Substring(0, 2));
+      int year = int.Parse(mothAndYear.Substring(3));
+
+      System.Console.WriteLine($"Name: {worker.Name}");
+      System.Console.WriteLine($"Department: {worker.Departament}");
+      System.Console.WriteLine($"Income for: {worker.Income(year, moth).ToString("F2", CultureInfo.InvariantCulture)}");
     }
   }
 }
