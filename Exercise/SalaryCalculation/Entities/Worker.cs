@@ -26,5 +26,16 @@ namespace SalaryCalculation.Entities {
     public void removeContract(HourContract contract) {
       Contracts.Remove(contract);
     }
+
+    public double Income(int year, int moth) {
+      double sum = BaseSalary;
+
+      foreach (HourContract contract in Contracts) {
+        if (contract.Date.Year == year && contract.Date.Month == moth) {
+          sum += contract.TotalValue();
+        }
+      }
+      return sum;
+    }
   }
 }
