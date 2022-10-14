@@ -18,5 +18,9 @@ namespace SalaryCalculation.Entities {
       BaseSalary = baseSalary;
       Departament = departament;
     }
+
+    public void addContract(HourContract contract) {
+      Contracts.Add(contract);
+    }
   }
 }
