@@ -22,5 +22,9 @@ namespace SalaryCalculation.Entities {
     public void addContract(HourContract contract) {
       Contracts.Add(contract);
     }
+
+    public void removeContract(HourContract contract) {
+      Contracts.Remove(contract);
+    }
   }
 }
