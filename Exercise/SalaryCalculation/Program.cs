@@ -36,8 +36,10 @@ namespace SalaryCalculation {
         double valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
         Console.Write("Duration (hours): ");
-        int hours = int.Parse(Console.ReadLine());
+        int hours = int.Parse(Console.ReadLine());  
 
+        HourContract contract = new HourContract(date, valuePerHour, hours);
+        worker.addContract(contract);
       }
     }
   }
