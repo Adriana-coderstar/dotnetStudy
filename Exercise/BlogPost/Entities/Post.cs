@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using BlogPost.Entities;
+using System.Text;
 
 namespace BlogPost.Entities{
   public class Post{
@@ -23,6 +24,10 @@ namespace BlogPost.Entities{
 
     public void RemoveComment(Comment text) {
       Comments.Add(text);
+    }
+
+    public override string ToString() {
+      StringBuilder sb = new StringBuilder();
     }
   }
 }
