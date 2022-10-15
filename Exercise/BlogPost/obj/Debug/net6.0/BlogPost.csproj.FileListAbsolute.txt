@@ -1,0 +1,15 @@
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/bin/Debug/net6.0/BlogPost
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/bin/Debug/net6.0/BlogPost.deps.json
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/bin/Debug/net6.0/BlogPost.runtimeconfig.json
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/bin/Debug/net6.0/BlogPost.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/bin/Debug/net6.0/BlogPost.pdb
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/BlogPost.csproj.AssemblyReference.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/BlogPost.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/BlogPost.AssemblyInfoInputs.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/BlogPost.AssemblyInfo.cs
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/BlogPost.csproj.CoreCompileInputs.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/BlogPost.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/refint/BlogPost.dll
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/BlogPost.pdb
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/BlogPost.genruntimeconfig.cache
+/home/adriana/Documentos/gitHub/dotnetStudy/Exercise/BlogPost/obj/Debug/net6.0/ref/BlogPost.dll
