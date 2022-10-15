@@ -10,5 +10,9 @@ namespace BankDetails.Entities {
       Holder = holder;
       Balance = balance;
     }
+
+    public void Withdraw(double amount) {
+      Balance -= amount;
+    }
   }
 }
