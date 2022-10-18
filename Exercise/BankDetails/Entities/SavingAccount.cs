@@ -8,6 +8,9 @@ namespace BankDetails.Entities {
     : base(number, holder, balance) {
       InterestRate = interestRate;
     }
-  }
 
+    public void UpdateBalace() {
+      Balance += Balance * InterestRate;
+    }
+  }
 }
